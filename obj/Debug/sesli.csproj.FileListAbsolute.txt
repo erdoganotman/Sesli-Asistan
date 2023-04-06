@@ -1,0 +1,13 @@
+C:\Users\erdog\source\repos\sesli\sesli\bin\Debug\sesli.exe.config
+C:\Users\erdog\source\repos\sesli\sesli\bin\Debug\sesli.exe
+C:\Users\erdog\source\repos\sesli\sesli\bin\Debug\sesli.pdb
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.csproj.AssemblyReference.cache
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\Interop.SpeechLib.dll
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.csproj.ResolveComReference.cache
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.Form1.resources
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.Properties.Resources.resources
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.csproj.GenerateResource.cache
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.exe
+C:\Users\erdog\source\repos\sesli\sesli\obj\Debug\sesli.pdb
